@@ -9,6 +9,9 @@ A full-stack ticketing system with a Spring Boot backend and a Next.js frontend.
 - Commenting on tickets
 - Dashboard for users and admins
 
+<img width="1654" height="921" alt="image" src="https://github.com/user-attachments/assets/58409333-8d69-4b4e-aa15-9c646ae5d5ec" />
+<img width="1761" height="838" alt="image" src="https://github.com/user-attachments/assets/3db57cc1-c489-48cd-ac27-ecbd6e562b20" />
+
 ## Tech Stack
 - Backend: Java, Spring Boot, Spring Security, JWT, Maven
 - Frontend: Next.js, React, Tailwind CSS
